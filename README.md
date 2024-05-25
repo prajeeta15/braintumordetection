@@ -36,7 +36,7 @@ The sys module provides access to some variables used or maintained by the Pytho
 
 In a brain detection project, sys might be used to handle command-line arguments, allowing the user to specify parameters such as input data paths, model save paths, or hyperparameters for the training process.
 
-Dataset taken from Kaggle 
+Dataset taken from Kaggle : https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 
 Torch DataSet Class: An abstract class representing a Dataset. All other datasets should subclass it. All subclasses should override __len__, that provides the size of the dataset, and __getitem__ supporting integer indexing in range from 0 to len(self) exclusive.
 
