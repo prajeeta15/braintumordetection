@@ -76,4 +76,7 @@ Why use CNN for brain tumor detection?
 - can handle large data efficiently.
 - can process high resolution medical images like MRI and CT scans
 
+![image](https://github.com/prajeeta15/braintumordetection/assets/96904203/08290456-60a3-46ab-9989-28e97f0052bb)
+![image](https://github.com/prajeeta15/braintumordetection/assets/96904203/70b00293-c553-4fcf-a98c-eb250ddfce83)
+![image](https://github.com/prajeeta15/braintumordetection/assets/96904203/9090c91e-4e32-494b-b688-4165ec9e3a21)
 
